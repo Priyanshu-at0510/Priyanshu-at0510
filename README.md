@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-054bb1246/)  
 📧 Email: ishusingh4006@gmail.com  
-🌐 [LeetCode](https://leetcode.com/u/priyanshusingh6386) | [GFG](https://www.geeksforgeeks.org/user/priyanshu90ozw/) | [GitHub](https://github.com/Priyanshu-at0510)
+🌐 [LeetCode](https://leetcode.com/u/priyanshusingh6386) | [GFG](https://www.geeksforgeeks.org/user/priyanshu90ozw/)
 
 ---
 
