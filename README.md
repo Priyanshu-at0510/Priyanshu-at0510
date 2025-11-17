@@ -4,7 +4,7 @@
 
 🔭 I’m currently contributing to on backend-heavy apps using Node.js and TypeScript.
 
-🎯 Actively looking for **SDE Internship roles for Summer 2025**. Open to collaborations and referrals!
+🎯 Actively looking for **SDE Internship roles for winter 2026**. Open to collaborations and referrals!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-054bb1246/)  
