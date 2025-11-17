@@ -2,7 +2,7 @@
 👋 Hey there! I'm Priyanshu Singh, currently pursuing B.Tech in ECE from **IIIT Ranchi** (2022–2026).  
 💡 Passionate about building scalable full-stack applications with a strong focus on **backend development**, system design, and **open source**.
 
-🔭 I’m currently contributing to on backend-heavy apps using Node.js and TypeScript.
+🔭 I’m currently contributing to on backend-heavy apps using Node.js and TypeScript & javascript.
 
 🎯 Actively looking for **SDE Internship roles for winter 2026**. Open to collaborations and referrals!
 
